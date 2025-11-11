@@ -1,1 +1,1 @@
-# devops-netologyDevops-Miheev
+# devops-netology-Devops-Miheev
